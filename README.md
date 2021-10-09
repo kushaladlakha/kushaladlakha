@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing many open source projects.
 - 🌱 I’m currently learning web development, c++, 
 - 💞️ I’m looking to collaborate on web  development open source projects
-- 📫 How to reach me yu can reach me by my social platform 
+- 📫 How to reach me you can reach me by my social platform 
 mmy INSTAGRAM username is  kushaladlakkha
 
 <!---
