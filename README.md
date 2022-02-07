@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Self Portfolio**
 
-- 🌱 I’m currently learning **Java Sript**
+- 🌱 I’m currently learning **Java Script**
 
-- 👯 I’m looking to collaborate on **with companies for internship**
+- 👯 I’m looking to collaborate  **with companies for internship**
 
 - 🤝 I’m looking for help with **open source contribution**
 
-- 📝 I regularly write articles on [Whatever i feel like to write.](Whatever i feel like to write.)
+- 📝 I regularly write articles on [Whatever i feel like to write.]
 
 - 💬 Ask me about **Web Development**
 
