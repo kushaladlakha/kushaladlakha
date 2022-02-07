@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushal Adlakha</h1>
 <h3 align="center">A Student who is learning while coding.</h3>
+<center>
 <img src='https://avataaars.io/?avatarStyle=Transparent&topType=WinterHat2&accessoriesType=Kurt&hatColor=Blue01&facialHairType=Blank&clotheType=Hoodie&clotheColor=Gray01&eyeType=Dizzy&eyebrowType=Default&mouthType=ScreamOpen&skinColor=Brown'
 />
-
+</center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushaladlakha&label=Profile%20views&color=0e75b6&style=flat" alt="kushaladlakha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushaladlakha" alt="kushaladlakha" /></a> </p>
