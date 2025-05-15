@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushaladlakha&label=Profile%20views&color=0e75b6&style=flat" alt="kushaladlakha" /> </p>
 
-- 🔭 I’m currently working on **PORTFOLIO**
-
 - 🌱 I’m currently learning **Java Sript**
 
 - 👯 I’m looking to collaborate on **with companies for internship**
 
 - 🤝 I’m looking for help with **open source contribution**
-
-- 📝 I regularly write articles on [Whatever i feel like to write.](Whatever i feel like to write.)
 
 - 💬 Ask me about **Web Development**
 
